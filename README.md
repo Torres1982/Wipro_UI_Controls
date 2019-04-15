@@ -1,9 +1,9 @@
 # Wipro_UI_Controls
 
-### Technologies Used:
+### Technologies used:
 1. Android Studio
-2. XML
-3. Kotlin
+2. Kotlin
+3. XML
 
 ### Assignment Description:
 This assignment will help in understanding how to use and program different user interface controls in Android.
