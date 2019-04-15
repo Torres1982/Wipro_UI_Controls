@@ -5,7 +5,7 @@
 2. XML
 3. Kotlin
 
-### Project Description:
+### Assignment Description:
 This assignment will help in understanding how to use and program different user interface controls in Android.
 1. Text View should not have any text when the app begins.
 2. Edit Text has to be programmed so that, whatever is entered in the edit text will be set as the text to text view.
