@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UI Controls</string>
+    <string name="text_view_string"/>
+    <string name="edit_text_hint">Write Here</string>
+    <string name="exit_button_string">Exit</string>
+    <string name="check_box_bold_string">Bold</string>
+    <string name="check_box_italic_string">Italic</string>
+    <string name="radio_button_one_string">Manuale</string>
+    <string name="radio_button_two_string">Indie Flower</string>
+</resources>
